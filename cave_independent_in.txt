@@ -1,0 +1,5 @@
+2
+1
+MLT 100
+Restrict beta1 beta2 0
+Run

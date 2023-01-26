@@ -1,0 +1,7 @@
+3
+1
+MLT 500
+Restrict q12 q34 
+Restrict q31 q42 0
+Restrict q21 q43
+Run 

@@ -1,0 +1,263 @@
+#NEXUS
+[R-package APE, Tue Nov  8 11:37:58 2022]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 125;
+	TAXLABELS
+		Xiphophorus_couchianus
+		Xiphophorus_maculatus
+		Xiphophorus_hellerii
+		Poecilia_mexicana
+		Poecilia_formosa
+		Poecilia_latipinna
+		Poecilia_reticulata
+		Cyprinodon_variegatus
+		Cyprinodon_tularosa
+		Fundulus_heteroclitus
+		Austrofundulus_limnaeus
+		Kryptolebias_marmoratus
+		Nematolebias_whitei
+		Nothobranchius_furzeri
+		Oryzias_latipes
+		Oryzias_melastigma
+		Melanotaenia_boesemani
+		Maylandia_zebra
+		Astatotilapia_calliptera
+		Haplochromis_nyererei
+		Astatotilapia_burtoni
+		Simochromis_diagramma
+		Neolamprologus_pulcher
+		Neolamprologus_brichardi
+		Oreochromis_niloticus
+		Oreochromis_aureus
+		Archocentrus_centrarchus
+		Salarias_fasciatus
+		Gouania_willdenowi
+		Amphiprion_ocellaris
+		Acanthochromis_polyacanthus
+		Stegastes_partitus
+		Parambassis_ranga
+		Hippoglossus_hippoglossus
+		Hippoglossus_stenolepis
+		Paralichthys_olivaceus
+		Scophthalmus_maximus
+		Seriola_lalandi
+		Seriola_dumerili
+		Echeneis_naucrates
+		Xiphias_gladius
+		Lates_calcarifer
+		Toxotes_jaculatrix
+		Betta_splendens
+		Anabas_testudineus
+		Mastacembelus_armatus
+		Monopterus_albus
+		Boleophthalmus_pectinirostris
+		Periophthalmus_magnuspinnatus
+		Sphaeramia_orbicularis
+		Hippocampus_comes
+		Syngnathus_acus
+		Thunnus_maccoyii
+		Cyclopterus_lumpus
+		Anarrhichthys_ocellatus
+		Anoplopoma_fimbria
+		Gasterosteus_aculeatus
+		Pungitius_pungitius
+		Pseudoliparis_swirei
+		Yap_hadal_snailfish
+		Sebastes_umbrosus
+		Sebastes_ruberrimus
+		Sebastes_aleutianus
+		Epinephelus_lanceolatus
+		Plectropomus_leopardus
+		Pseudochaenichthys_georgianus
+		Gymnodraco_acuticeps
+		Notothenia_coriiceps
+		Trematomus_bernacchii
+		Cottoperca_gobio
+		Etheostoma_cragini
+		Etheostoma_spectabile
+		Sander_lucioperca
+		Perca_flavescens
+		Perca_fluviatilis
+		Micropterus_salmoides
+		Morone_saxatilis
+		Chelmon_rostratus
+		Acanthopagrus_latus
+		Sparus_aurata
+		Larimichthys_crocea
+		Tetraodon_nigroviridis
+		Takifugu_rubripes
+		Labrus_bergylta
+		Cheilinus_undulatus
+		Thalassophryne_amazonica
+		Anoplogaster_cornuta
+		Myripristis_murdjan
+		Coryphaenoides_rupestris
+		Gadus_morhua
+		Typhlichthys_subterraneus
+		Percopsis_transmontana
+		Oncorhynchus_mykiss
+		Oncorhynchus_kisutch
+		Oncorhynchus_tshawytscha
+		Oncorhynchus_keta
+		Oncorhynchus_nerka
+		Salmo_trutta
+		Salmo_salar
+		Salvelinus_alpinus_alpinus
+		Salvelinus_namaycush
+		Coregonus_clupeaformis
+		Esox_lucius
+		Pimephales_promelas
+		Sinocyclocheilus_grahami
+		Sinocyclocheilus_anshuiensis
+		Sinocyclocheilus_rhinocerous
+		Carassius_auratus
+		Cyprinus_carpio
+		Danio_rerio
+		Ictalurus_punctatus
+		Pangasianodon_hypophthalmus
+		Tachysurus_fulvidraco
+		Astyanax_mexicanus
+		Pygocentrus_nattereri
+		Colossoma_macropomum
+		Electrophorus_electricus
+		Chanos_chanos
+		Alosa_sapidissima
+		Clupea_harengus
+		Denticeps_clupeoides
+		Gymnarchus_niloticus
+		Scleropages_formosus
+		Paramormyrops_kingsleyae
+		Lepisosteus_oculatus
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Xiphophorus_couchianus,
+		2	Xiphophorus_maculatus,
+		3	Xiphophorus_hellerii,
+		4	Poecilia_mexicana,
+		5	Poecilia_formosa,
+		6	Poecilia_latipinna,
+		7	Poecilia_reticulata,
+		8	Cyprinodon_variegatus,
+		9	Cyprinodon_tularosa,
+		10	Fundulus_heteroclitus,
+		11	Austrofundulus_limnaeus,
+		12	Kryptolebias_marmoratus,
+		13	Nematolebias_whitei,
+		14	Nothobranchius_furzeri,
+		15	Oryzias_latipes,
+		16	Oryzias_melastigma,
+		17	Melanotaenia_boesemani,
+		18	Maylandia_zebra,
+		19	Astatotilapia_calliptera,
+		20	Haplochromis_nyererei,
+		21	Astatotilapia_burtoni,
+		22	Simochromis_diagramma,
+		23	Neolamprologus_pulcher,
+		24	Neolamprologus_brichardi,
+		25	Oreochromis_niloticus,
+		26	Oreochromis_aureus,
+		27	Archocentrus_centrarchus,
+		28	Salarias_fasciatus,
+		29	Gouania_willdenowi,
+		30	Amphiprion_ocellaris,
+		31	Acanthochromis_polyacanthus,
+		32	Stegastes_partitus,
+		33	Parambassis_ranga,
+		34	Hippoglossus_hippoglossus,
+		35	Hippoglossus_stenolepis,
+		36	Paralichthys_olivaceus,
+		37	Scophthalmus_maximus,
+		38	Seriola_lalandi,
+		39	Seriola_dumerili,
+		40	Echeneis_naucrates,
+		41	Xiphias_gladius,
+		42	Lates_calcarifer,
+		43	Toxotes_jaculatrix,
+		44	Betta_splendens,
+		45	Anabas_testudineus,
+		46	Mastacembelus_armatus,
+		47	Monopterus_albus,
+		48	Boleophthalmus_pectinirostris,
+		49	Periophthalmus_magnuspinnatus,
+		50	Sphaeramia_orbicularis,
+		51	Hippocampus_comes,
+		52	Syngnathus_acus,
+		53	Thunnus_maccoyii,
+		54	Cyclopterus_lumpus,
+		55	Anarrhichthys_ocellatus,
+		56	Anoplopoma_fimbria,
+		57	Gasterosteus_aculeatus,
+		58	Pungitius_pungitius,
+		59	Pseudoliparis_swirei,
+		60	Yap_hadal_snailfish,
+		61	Sebastes_umbrosus,
+		62	Sebastes_ruberrimus,
+		63	Sebastes_aleutianus,
+		64	Epinephelus_lanceolatus,
+		65	Plectropomus_leopardus,
+		66	Pseudochaenichthys_georgianus,
+		67	Gymnodraco_acuticeps,
+		68	Notothenia_coriiceps,
+		69	Trematomus_bernacchii,
+		70	Cottoperca_gobio,
+		71	Etheostoma_cragini,
+		72	Etheostoma_spectabile,
+		73	Sander_lucioperca,
+		74	Perca_flavescens,
+		75	Perca_fluviatilis,
+		76	Micropterus_salmoides,
+		77	Morone_saxatilis,
+		78	Chelmon_rostratus,
+		79	Acanthopagrus_latus,
+		80	Sparus_aurata,
+		81	Larimichthys_crocea,
+		82	Tetraodon_nigroviridis,
+		83	Takifugu_rubripes,
+		84	Labrus_bergylta,
+		85	Cheilinus_undulatus,
+		86	Thalassophryne_amazonica,
+		87	Anoplogaster_cornuta,
+		88	Myripristis_murdjan,
+		89	Coryphaenoides_rupestris,
+		90	Gadus_morhua,
+		91	Typhlichthys_subterraneus,
+		92	Percopsis_transmontana,
+		93	Oncorhynchus_mykiss,
+		94	Oncorhynchus_kisutch,
+		95	Oncorhynchus_tshawytscha,
+		96	Oncorhynchus_keta,
+		97	Oncorhynchus_nerka,
+		98	Salmo_trutta,
+		99	Salmo_salar,
+		100	Salvelinus_alpinus_alpinus,
+		101	Salvelinus_namaycush,
+		102	Coregonus_clupeaformis,
+		103	Esox_lucius,
+		104	Pimephales_promelas,
+		105	Sinocyclocheilus_grahami,
+		106	Sinocyclocheilus_anshuiensis,
+		107	Sinocyclocheilus_rhinocerous,
+		108	Carassius_auratus,
+		109	Cyprinus_carpio,
+		110	Danio_rerio,
+		111	Ictalurus_punctatus,
+		112	Pangasianodon_hypophthalmus,
+		113	Tachysurus_fulvidraco,
+		114	Astyanax_mexicanus,
+		115	Pygocentrus_nattereri,
+		116	Colossoma_macropomum,
+		117	Electrophorus_electricus,
+		118	Chanos_chanos,
+		119	Alosa_sapidissima,
+		120	Clupea_harengus,
+		121	Denticeps_clupeoides,
+		122	Gymnarchus_niloticus,
+		123	Scleropages_formosus,
+		124	Paramormyrops_kingsleyae,
+		125	Lepisosteus_oculatus
+	;
+	TREE * UNTITLED = [&R] ((((((((((((((((((((1:6.487066,2:6.487065):24.777114,3:31.264181):14.102219,(((4:13.326203,5:13.326203):12.758152,6:13.326203):12.758152,7:26.084355):19.282045):26.995902,((8:3.199396,9:3.199396):62.847408,10:66.046803):6.3155):19.046926,(((11:70.729456,12:70.729458):2.169288,13:72.898745):13.824286,14:86.723032):4.686196):5.954273,15:97.363501,16:97.363501):1.236257,17:98.599757):6.308891,((((((18:3.625195,19:3.625197):4.743188,(20:7.832284,21:7.832284):0.536101):1.753227,22:10.121612):13.606393,(23:0.929621,24:0.929621):22.798385):6.351889,(25:18.539317,26:18.539317):11.540576):37.657844,27:67.737739):37.17091):1.182668,((28:58.688487,29:58.688486):9.761964,((30:29.344791,31:29.344789):19.373992,32:48.718781):19.731669):37.640866):1.568745,33:107.660061):5.565751,(((((34:4.057438,35:4.057438):45.783261,36:49.840698):16.055562,37:65.896261):16.837477,((((38:15.439146,39:15.439147):49.807275,40:65.246421):10.291708,41:75.538129):3.27859,(42:73.389714,43:73.389714):5.427005):3.917018):25.344365,((44:71.83222,45:71.832221):23.061659,(46:85.722571,47:85.722571):9.171309):13.184223):5.14771):1.161156,(((48:49.842748,49:49.842748):49.732546,50:99.575295):11.781977,((51:61.151677,52:61.151677):47.447998,53:108.599675):2.757596):3.029696):1.695324,(((((((((((54:59.920564,55:59.920564):2.840196,(56:29.690163,((57:22.590163,58:22.590163):2.437,(59:0.92,60:0.92):22.76):8.410599):33.170599):16.719193,((61:7.327941,62:7.327942):1.193996,63:8.521938):70.958016):5.028489,((64:62.258669,65:62.258668):20.45411,((((66:13.0635,67:13.063499):10.061518,68:23.125017):1.43202,69:24.557038):43.39733,70:67.954367):14.758412):1.795663):2.293096,((71:26.672497,72:26.672496):14.147762,(73:35.719196,(74:20.203886,75:20.203885):15.515312):5.101064):45.981279):5.226835,76:92.028375):2.823679,77:94.852052):1.479775,78:96.331828):3.093696,((79:49.868139,80:49.868137):48.536983,81:98.405122):1.0204):6.854662,(82:46.782172,83:46.782171):59.498015):6.558493,(84:73.23623,85:73.236231):39.602448):3.243613):4.085179,86:120.167471):9.476503,(87:124.850407,88:129.643973):4.793566):8.316262,((89:75.923153,90:75.923148):43.626933,(91:65.407878,92:65.407878):54.142207):18.410151):27.570021,((((((93:13.543508,(94:8.404815,95:8.404815):5.138693):0.92745,(96:11.541969,97:11.541969):2.928989):7.796424,(98:9.534713,99:9.534713):12.732669):1.274146,(100:6.183152,101:6.18315):17.358378):27.888471,102:51.430001):70.090223,103:121.520223):44.010034):11.94698,(((((104:76.52146,((105:19.614166,(106:12.2,107:12.2):7.34526):24.34526,(108:38.108974,109:38.108975):5.850451):32.562033):5.508706,110:82.030166):60.080422,((((111:68.576195,112:68.576195):1.376899,113:69.953094):46.106946,(114:85.493817,(115:30.884608,116:30.884608):54.60921):30.566223):8.346838,117:124.40688):17.703708):16.06623,118:158.176817):7.628325,((119:88.753322,120:88.753322):65.210212,121:153.963533):11.841609):11.672095):9.667148,(122:125.251527,123:125.251527):61.892858,124:187.144385):112.998825,125:300.14321);
+END;
